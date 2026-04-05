@@ -1,0 +1,21 @@
+# 📄 Proof of Concept (PoC): AI-Native Textile Restoration
+
+## 1. Pernyataan Masalah
+Industri restorasi tekstil premium di Malaysia masih bergantung sepenuhnya kepada kepakaran manual yang terdedah kepada "human error", terutamanya dalam menentukan tahap kerosakan fiber mikroskopik.
+
+## 2. Solusi Teknikal (RFCR Framework)
+Sistem ini menggunakan integrasi dua teras utama:
+* **Computer Vision (CV):** Mengesan kerosakan benang (fraying) dan degradasi warna melalui imej resolusi tinggi.
+* **Predictive Analytics:** Menentukan "Cleaning Code" dan formula kimia yang paling selamat berdasarkan jenis material (Silk, Wool, Leather).
+
+## 3. Metodologi R&D (Kolaborasi UTM)
+* **Data Collection:** Membina pangkalan data imej fabrik yang rosak vs fabrik pulih.
+* **Testing Phase:** Validasi keberkesanan bahan kimia restorasi terhadap integriti fiber di makmal.
+
+## 4. Hasil Sasaran (Deliverables)
+* Dashboard pemantauan status restorasi masa-nyata.
+* Laporan analisis kerosakan automatik untuk pelanggan korporat/insurans.
+
+---
+**Status:** In-Development (R&D Phase)  
+**Lead Researcher:** Zaim Afham
